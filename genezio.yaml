@@ -24,4 +24,4 @@ frontend:
         start:
             - npm install
             - npm run dev
-    subdomain: chatgpt-getting-started
+    subdomain: mistyrose-many-serval
